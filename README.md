@@ -2,7 +2,7 @@
 ## 01 HTML, CSS, and Git: Code Refactor
 
 This application demonstrates best practices is using concise and well documented semantic html with css formating. The user story, acceptance criteria, and mock-up are shown below.
-The built application can be found at: ______
+The built application can be found at: https://kaitlinnowell.github.io/module_1_challenge/
 
 ## User Story
 
