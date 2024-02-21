@@ -1,7 +1,7 @@
 # Horiseon Social Solutions Application ReadMe
 
 This application demonstrates best practices is using concise and well documented semantic html with css formating. The user story, acceptance criteria, and mock-up are shown below.
-The built application can be found at: https://kaitlinnowell.github.io/module_1_challenge/
+The built application can be found at: https://kaitlinnowell.github.io/horiseon-social-solutions/
 
 ## User Story
 
